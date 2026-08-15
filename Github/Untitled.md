@@ -1,6 +1,3 @@
-test set 
 
-k 
-
-![[attachments/fef08b717afe5df8dfd99438a0138907_MD5.jpg|Open: Screenshot 2026-08-15 153239.png]]
-![[attachments/fef08b717afe5df8dfd99438a0138907_MD5.jpg]]
+[Open: Screenshot 2026-08-07 054005.png](attachments/d469be0228eb4d13da4e4500ad4074df_MD5.jpg)
+![](attachments/d469be0228eb4d13da4e4500ad4074df_MD5.jpg)
